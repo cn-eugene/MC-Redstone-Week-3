@@ -1,5 +1,7 @@
 # MC-Redstone-Week-3
-Save Folders for Redstone Camp 
+Save Folders for Redstone Camp -- They have the name of the ninja.
+
+The slide show presentations titled: Redstone Creation and TnT Cannon Instructions are for the ninjas to use if they would like to make any of the Redstone creations. (Kael -- our intern for this summer -- created these slide show presentations.
 
 For Minecraft, you must have Microsoft account to log in. Minecraft is not free, it costs $30 for Java and Bedrock. The Minecraft launcher is free (which is all that is needed for Bedrock Edition).
 
