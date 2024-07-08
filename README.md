@@ -1,8 +1,10 @@
 # MC-Redstone-Week-3
 Hello ninjas and families,
+
 Here are the saved folders from the Minecraft Redstone Camp -- They have the name of each ninja in camp; Inside are zipped folders with their worlds that will need to be downloaded. Depending on the version of Minecraft and set of instructions for the version (Java or Bedrock), they will need to be unzipped. Down below, is information with how to access the worlds if you have Minecraft (either Java or Bedrock). The first set of instructions are for if you want to open the world in Java Edition (meaning you have it for computers or laptops). The second set of instructions are for if you want to open it in Bedrock (which can be played with on computers or laptops), but is more known as the Nintendo Switch version of Minecraft. 
 
 The slide show presentations titled: Redstone Creation and TnT Cannon Instructions are for the ninjas to use if they would like to make any of the Redstone creations. (Kael -- our intern for this summer -- created these slide show presentations.
+
 -Sensei Isabella
 
 ***Note: For Minecraft, you must have Microsoft account to log in. Minecraft is not free, it costs $30 for Java and Bedrock. The Minecraft launcher is free (which is all that is needed for Bedrock Edition; If you have an account on the Switch, you log in with the Switch account and you can convert it from Java to Bedrock for free).***
