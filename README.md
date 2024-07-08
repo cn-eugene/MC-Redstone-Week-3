@@ -26,7 +26,7 @@ The slide show presentations titled: Redstone Creation and TnT Cannon Instructio
 
 
 # Here are the instructions to convert the Java world to Bedrock, and be able to use it on the Nintendo Switch:
-1.) Sign in (or create account) to Minecraft (make sure it is the same account that is used on the Nintendo Switch): https://www.minecraft.net/en-us  
+1.) Sign in (or create account) to Minecraft (**make sure it is the same account that is used on the Nintendo Switch**): https://www.minecraft.net/en-us  
 
 2.) download Minecraft Launcher 
 
@@ -52,9 +52,7 @@ The slide show presentations titled: Redstone Creation and TnT Cannon Instructio
 
 13.) uninstall minecraft (if you do not want to keep it) 
 
-**notes: it might not sync** 
-
-**it should be available on the linked Nintendo Switch Account** 
+***notes: it should be available on the linked Nintendo Switch Account, however it might not sync*** 
 
 
 # If needed, Here are the instructions to convert from Bedrock back to Java:
