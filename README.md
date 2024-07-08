@@ -1,9 +1,9 @@
 # MC-Redstone-Week-3
-Save Folders for Redstone Camp -- They have the name of the ninja.
+Save Folders for Redstone Camp -- They have the name of the ninja; Inside are zipped folders with their worlds that will need to be followed. You will have to download the worlds and possibly unzip them based on the set of instructions you are following. Down below, is information to access the worlds if you have Minecraft (either Java or Bedrock). The first set of instructions are for if you want to open the world in Java Edition (meaning you have it for computers or laptops. The second set of instructions are for if you want to open it in Bedrock (which can be played with on computers or laptops), but is more known as the Nintendo Switch version of Minecraft. 
 
 The slide show presentations titled: Redstone Creation and TnT Cannon Instructions are for the ninjas to use if they would like to make any of the Redstone creations. (Kael -- our intern for this summer -- created these slide show presentations.
 
-For Minecraft, you must have Microsoft account to log in. Minecraft is not free, it costs $30 for Java and Bedrock. The Minecraft launcher is free (which is all that is needed for Bedrock Edition).
+***Note: For Minecraft, you must have Microsoft account to log in. Minecraft is not free, it costs $30 for Java and Bedrock. The Minecraft launcher is free (which is all that is needed for Bedrock Edition).***
 
 # Here are instructions to open the saved world in Java edition: 
 1.) Sign in to Minecraft with Microsoft (or create account): https://www.minecraft.net/en-us 
@@ -14,7 +14,7 @@ For Minecraft, you must have Microsoft account to log in. Minecraft is not free,
 
 3.) unzip folder and place it into these file paths: 
 
-(%appdata%\.minecraft\saves (for windows); ~/Library/Application Support/minecraft/saves (for mac)) 
+((%appdata%\.minecraft\saves) - (for windows); (~/Library/Application Support/minecraft/saves) - (for mac)) 
 
 4.) Open Minecraft Launcher 
 
