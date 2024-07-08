@@ -72,7 +72,7 @@ The slide show presentations titled: Redstone Creation and TnT Cannon Instructio
 
 6.) unzip the zipped file/folder that chunker provides into the .minecraft\saves file:
 
-**%appdata%\.minecraft\saves** - (for windows); **~/Library/Application Support/minecraft/saves** - (for mac)
+**%appdata%\\.minecraft\saves** - (for windows); **~/Library/Application Support/minecraft/saves** - (for mac)
 *you can find these file locations using: (Windows Key + R -- for Windows); (finder or search -- for mac)*
  
 
