@@ -69,4 +69,4 @@ The slide show presentations titled: Redstone Creation and TnT Cannon Instructio
 
 6.) unzip the zipped file/folder that chunker provides into the .minecraft\saves file (%appdata%\.minecraft\saves (for windows); ~/Library/Application Support/minecraft/saves (for mac)) 
 
-***the opposite as above***
+***(the opposite as above--opposite from converting Java to Bedrock)***
