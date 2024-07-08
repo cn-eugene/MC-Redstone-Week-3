@@ -5,7 +5,7 @@ Here are the saved folders from the Minecraft Redstone Camp -- They have the nam
 The slide show presentations titled: Redstone Creation and TnT Cannon Instructions are for the ninjas to use if they would like to make any of the Redstone creations. (Kael -- our intern for this summer -- created these slide show presentations.
 -Sensei Isabella
 
-***Note: For Minecraft, you must have Microsoft account to log in. Minecraft is not free, it costs $30 for Java and Bedrock. The Minecraft launcher is free (which is all that is needed for Bedrock Edition).***
+***Note: For Minecraft, you must have Microsoft account to log in. Minecraft is not free, it costs $30 for Java and Bedrock. The Minecraft launcher is free (which is all that is needed for Bedrock Edition; If you have an account on the Switch, you log in with the Switch account and you can convert it from Java to Bedrock for free).***
 
 # Here are instructions to open the saved world in Java edition: 
 1.) Sign in to Minecraft with Microsoft (or create account): https://www.minecraft.net/en-us 
