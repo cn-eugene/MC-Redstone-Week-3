@@ -19,7 +19,7 @@ The slide show presentations titled: Redstone Creation and TnT Cannon Instructio
 3.) unzip folder and place it into these file paths: 
 
 **%appdata%\\.minecraft\saves** - (for windows); **~/Library/Application Support/minecraft/saves** - (for mac)
-*you can find these file locations using: (Windows Key + R -- for Windows) or on files the file path is: C:\Users\learn\AppData\Roaming\\.minecraft\saves; (finder or search -- for mac)*
+*you can find these file locations using: (Windows Key + R -- for Windows) or on files the file path is: C:\Users\learn\AppData\Roaming\\.minecraft\saves (also for windows); (finder or search -- for mac)*
 
 4.) Open Minecraft Launcher 
 
@@ -73,7 +73,7 @@ The slide show presentations titled: Redstone Creation and TnT Cannon Instructio
 6.) unzip the zipped file/folder that chunker provides into the .minecraft\saves file:
 
 **%appdata%\\.minecraft\saves** - (for windows); **~/Library/Application Support/minecraft/saves** - (for mac)
-*you can find these file locations using: (Windows Key + R -- for Windows) or on files the file path is: C:\Users\learn\AppData\Roaming\\.minecraft\saves; (finder or search -- for mac)*
+*you can find these file locations using: (Windows Key + R -- for Windows) or on files the file path is: C:\Users\learn\AppData\Roaming\\.minecraft\saves (also for windows); (finder or search -- for mac)*
  
 
 ***(the opposite as above--opposite from converting Java to Bedrock)***
